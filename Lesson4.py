@@ -1,10 +1,8 @@
 #Lesson 4
 
-#Please note that this code was orginally shown on replit.com and had a lot of whitespace to make sure that the students
-#did not see all of the code
+#Please note that this code was orginally shown on replit.com and had a lot of whitespace to make sure that the students did not see all of the code
 
-#Please note that on replit.com this code is shown in different files so I could different parts of the code separately.
-#I have put all the code in one file for convenience
+#Please note that on replit.com this code is shown in different files so I could different parts of the code separately. I have put all the code in one file for convenience
 
 #At start of lesson
 import math
