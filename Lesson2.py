@@ -22,14 +22,14 @@ print(f)
 m = 3
 n = 6
 
-#If we try the following code, what do you expect to happen.
+#If we try the following code, what do you expect to happen?
 m = n
 n = m
 
 print(m)
 print(n)
 
-#A task change values of x to y, y to z and z to x. by introducing a new variable.
+#A task change values of x to y, y to z and z to x by introducing a new variable.
 x = 5  ### 6
 y = 6  ### 7
 z = 7  ### 5
