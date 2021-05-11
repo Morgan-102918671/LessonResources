@@ -4,10 +4,10 @@ a = 3
 print(a)
 
 b=7
-print(a)
+print(b)
 
 c=a+b
-print(a)
+print(c)
 
 d=a-b
 print(d)
@@ -19,7 +19,6 @@ f=a/b
 print(f)
 
 #Swapping m and n
-
 m = 3
 n = 6
 
@@ -35,6 +34,7 @@ x = 5  ### 6
 y = 6  ### 7
 z = 7  ### 5
 temp = 0
+
 temp = x
 x = y
 y = z
@@ -44,7 +44,9 @@ print(x,y,z)
 #Variable types
 counter = 100
 #An integer assignment
+
 miles   = 1000.0
 #A floating point
+
 name    = "John"
 #A string
